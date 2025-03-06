@@ -1,4 +1,4 @@
-## **Guest Premium Series 📺**  
+## **flutter-streaming-ui 📺**  
 A **Flutter** application for streaming premium series content.
 
 ### **📌 Features**
@@ -12,7 +12,7 @@ A **Flutter** application for streaming premium series content.
 ### **🛠️ Installation**
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/adi-taran/guest_premium_series.git
+   git clone https://github.com/adi-taran/flutter-streaming-ui.git
    cd guest_premium_series
    ```
 
